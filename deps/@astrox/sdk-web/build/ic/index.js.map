@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/ic/index.ts"],"sourcesContent":["export { AuthClient as ICAuthClient } from './icAuthClient';\nexport { IC } from './icConnect';\n"],"names":["AuthClient","ICAuthClient","IC"],"mappings":"AAAA,SAASA,cAAcC,YAAY,QAAQ,iBAAiB;AAC5D,SAASC,EAAE,QAAQ,cAAc"}

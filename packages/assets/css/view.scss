@@ -1,0 +1,33 @@
+.ez-table-view {
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: left;
+    width: 100%;
+
+    tbody {
+        tr {
+            &.active {
+                background: #eef0f3;
+            }
+
+            &:hover {
+                background: #eef0f3;
+            }
+        }
+    }
+
+    &.ez-table-hover {
+        tbody {
+            tr:hover {
+                background: #eef0f3;
+            }
+        }
+    }
+
+    &.ez-table-scroll {
+        overflow-x: auto;
+        padding-bottom: 0.75rem;
+        white-space: nowrap;
+    }
+
+}

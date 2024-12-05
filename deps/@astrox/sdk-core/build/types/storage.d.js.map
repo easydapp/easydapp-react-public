@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/types/storage.d.ts"],"sourcesContent":["/**\n * Interface for persisting user authentication data\n */\nexport interface AbstractedClientStorage {\n    get(key: string): Promise<string | null>;\n    set(key: string, value: string): Promise<void>;\n    remove(key: string): Promise<void>;\n}\n"],"names":[],"mappings":"AAGA,WAIC"}

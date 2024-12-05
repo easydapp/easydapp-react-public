@@ -1,0 +1,56 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "npm.packageManager": "pnpm",
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.eol": "\n",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "cSpell.words": [
+        "2vxsx-fae",
+        "astrox",
+        "Avenir",
+        "bitfinity",
+        "borc",
+        "cbor",
+        "dfinity",
+        "dompurify",
+        "easydapp",
+        "ianvs",
+        "iconfont",
+        "icrc1",
+        "jellypack",
+        "keyframes",
+        "neverthrow",
+        "nextui",
+        "nfid",
+        "ORIGYN",
+        "Parens",
+        "rainbowkit",
+        "sepolia",
+        "stylelint",
+        "subaccount",
+        "tailwindcss",
+        "tsbuildinfo",
+        "tseslint",
+        "viem",
+        "vite",
+        "Wagmi"
+    ],
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
+}

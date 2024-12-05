@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/types/api.d.ts"],"sourcesContent":["import { IWalletConnector } from './connector';\nexport interface API extends IWalletConnector {\n}\n"],"names":[],"mappings":"AACA,WACC"}

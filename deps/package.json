@@ -1,0 +1,19 @@
+{
+    "name": "deps",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@astrox/sdk-web": "^0.1.41",
+        "@astrox/sdk-webview": "^0.1.41",
+        "crc": "^4.3.2",
+        "js-sha256": "^0.11.0"
+    },
+    "devDependencies": {}
+}

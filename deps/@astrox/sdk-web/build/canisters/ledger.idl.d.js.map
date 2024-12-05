@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/canisters/ledger.idl.d.ts"],"sourcesContent":["declare const _default: ({ IDL }: {\n    IDL: any;\n}) => any;\nexport default _default;\nexport declare const init: ({ IDL }: {\n    IDL: any;\n}) => any[];\n//# sourceMappingURL=ledger.idl.d.ts.map"],"names":["_default"],"mappings":"AAGA,eAAeA,SAAS"}
